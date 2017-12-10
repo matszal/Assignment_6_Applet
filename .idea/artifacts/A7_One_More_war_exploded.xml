@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="A7_One_More:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/A7_One_More_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="A7_One_More/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="A7_One_More" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-3.0.10-stable-bin" />
+          <element id="library" level="project" name="Applet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
